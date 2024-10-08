@@ -1,0 +1,17 @@
+Problem1 : Simple Sales Data Analysis
+
+Dataset:
+Order_ID | Product_Name | Quantity | Price_Per_Unit | Order_Date
+---------|--------------|----------|-----------------|------------
+1A       | T-Shirt      | 3        | $20             | 2023-01-01
+2B       | Jeans        | 1        | $50             | 2023-01-02
+3C       | Sneakers     | 1        | $100            | 2023-01-03
+4D       | Hat          | 3        | $15             | 2023-01-04
+5E       | T-Shirt      | 1        | $20             | 2023-01-05
+
+Tasks:
+1. Calculate Total Revenue: Calculate the total revenue generated from all orders.
+
+2. Most Sold Product: Identify the product with the highest total quantity sold.
+
+3. Average Order Value: Calculate the average order value (total revenue divided by the number of orders).
